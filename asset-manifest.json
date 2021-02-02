@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/donations/static/css/main.7d8572f9.chunk.css",
-    "main.js": "/donations/static/js/main.bd524457.chunk.js",
-    "main.js.map": "/donations/static/js/main.bd524457.chunk.js.map",
-    "runtime-main.js": "/donations/static/js/runtime-main.9fe3a625.js",
-    "runtime-main.js.map": "/donations/static/js/runtime-main.9fe3a625.js.map",
-    "static/js/2.e886d7f5.chunk.js": "/donations/static/js/2.e886d7f5.chunk.js",
-    "static/js/2.e886d7f5.chunk.js.map": "/donations/static/js/2.e886d7f5.chunk.js.map",
-    "index.html": "/donations/index.html",
-    "precache-manifest.6d0a382c194404d9f6168d690e697117.js": "/donations/precache-manifest.6d0a382c194404d9f6168d690e697117.js",
-    "service-worker.js": "/donations/service-worker.js",
-    "static/css/main.7d8572f9.chunk.css.map": "/donations/static/css/main.7d8572f9.chunk.css.map",
-    "static/js/2.e886d7f5.chunk.js.LICENSE.txt": "/donations/static/js/2.e886d7f5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/donations/static/media/Circe-Thin.d9851189.eot",
-    "static/media/polygon.png": "/donations/static/media/polygon.e7d3efa6.png"
+    "main.css": "/MindONpayments/static/css/main.436de22d.chunk.css",
+    "main.js": "/MindONpayments/static/js/main.3979f4e5.chunk.js",
+    "main.js.map": "/MindONpayments/static/js/main.3979f4e5.chunk.js.map",
+    "runtime-main.js": "/MindONpayments/static/js/runtime-main.710eb64b.js",
+    "runtime-main.js.map": "/MindONpayments/static/js/runtime-main.710eb64b.js.map",
+    "static/js/2.e886d7f5.chunk.js": "/MindONpayments/static/js/2.e886d7f5.chunk.js",
+    "static/js/2.e886d7f5.chunk.js.map": "/MindONpayments/static/js/2.e886d7f5.chunk.js.map",
+    "index.html": "/MindONpayments/index.html",
+    "precache-manifest.cc2b319706948835d57966fe36c0c6f9.js": "/MindONpayments/precache-manifest.cc2b319706948835d57966fe36c0c6f9.js",
+    "service-worker.js": "/MindONpayments/service-worker.js",
+    "static/css/main.436de22d.chunk.css.map": "/MindONpayments/static/css/main.436de22d.chunk.css.map",
+    "static/js/2.e886d7f5.chunk.js.LICENSE.txt": "/MindONpayments/static/js/2.e886d7f5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MindONpayments/static/media/Circe-Thin.d9851189.eot",
+    "static/media/polygon.png": "/MindONpayments/static/media/polygon.e7d3efa6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fe3a625.js",
+    "static/js/runtime-main.710eb64b.js",
     "static/js/2.e886d7f5.chunk.js",
-    "static/css/main.7d8572f9.chunk.css",
-    "static/js/main.bd524457.chunk.js"
+    "static/css/main.436de22d.chunk.css",
+    "static/js/main.3979f4e5.chunk.js"
   ]
 }
